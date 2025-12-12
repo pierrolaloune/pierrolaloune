@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Pierre Bouchet
 
-🎓 PhD student in Ecology & Biogeography  
+🎓 PhD student in Ecology   
 🐟 Research on biodiversity, functional ecology, macroecology  
-🌍 CRBE, Université Toulouse III – Paul Sabatier  
+🌍  [![CRBE](https://img.shields.io/badge/Website-Pierre%20Bouchet-blue?style=for-the-badge)](https://crbe.cnrs.fr/), Université of Toulouse 
 
 ### 🌐 My Academic Website  
 [![Website](https://img.shields.io/badge/Website-Pierre%20Bouchet-blue?style=for-the-badge)](https://pierrolaloune.github.io)
