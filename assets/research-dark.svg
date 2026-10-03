@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Research focus: functional traits, macroecology, biodiversity">
+<rect x="0.5" y="0.5" width="383.0" height="249" rx="22" fill="#172815" stroke="rgba(238,193,112,0.22)"/>
+<text x="32.0" y="52" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="2" fill="#EEC170">01</text>
+<rect x="324.0" y="44" width="28" height="2" fill="#C44536"/>
+<text x="30.0" y="128" font-family="'Bricolage Grotesque','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" font-weight="600" letter-spacing="-0.8" fill="#F3E7D8">Functional traits</text>
+<text font-family="'Manrope','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" fill="#D9C6B4"><tspan x="32.0" y="172">Which trait combinations</tspan><tspan x="32.0" y="199">are most targeted by humans?</tspan></text>
+<rect x="408.5" y="0.5" width="383.0" height="249" rx="22" fill="#172815" stroke="rgba(238,193,112,0.22)"/>
+<text x="440.0" y="52" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="2" fill="#EEC170">02</text>
+<rect x="732.0" y="44" width="28" height="2" fill="#C44536"/>
+<text x="438.0" y="128" font-family="'Bricolage Grotesque','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" font-weight="600" letter-spacing="-0.8" fill="#F3E7D8">Macroecology</text>
+<text font-family="'Manrope','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" fill="#D9C6B4"><tspan x="440.0" y="172">Regional variation across</tspan><tspan x="440.0" y="199">biogeographic realms.</tspan></text>
+<rect x="816.5" y="0.5" width="383.0" height="249" rx="22" fill="#172815" stroke="rgba(238,193,112,0.22)"/>
+<text x="848.0" y="52" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="2" fill="#EEC170">03</text>
+<rect x="1140.0" y="44" width="28" height="2" fill="#C44536"/>
+<text x="846.0" y="128" font-family="'Bricolage Grotesque','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" font-weight="600" letter-spacing="-0.8" fill="#F3E7D8">Biodiversity</text>
+<text font-family="'Manrope','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" fill="#D9C6B4"><tspan x="848.0" y="172">Functional erosion and invasions</tspan><tspan x="848.0" y="199">in the Anthropocene.</tspan></text>
+</svg>
