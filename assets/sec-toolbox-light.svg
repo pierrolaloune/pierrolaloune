@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="Toolbox">
-<text x="0" y="40" font-family="'Bricolage Grotesque','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" font-weight="600" letter-spacing="-0.6" fill="#1F0812">Toolbox</text>
-<text x="1200" y="38" text-anchor="end" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#7A5C4A">03</text>
-<line x1="0" y1="55" x2="1200" y2="55" stroke="rgba(31,8,18,0.18)"/>
-</svg>

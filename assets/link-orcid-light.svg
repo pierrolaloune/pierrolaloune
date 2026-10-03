@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="126" height="48" viewBox="0 0 126 48" role="img" aria-label="ORCID">
-<rect x="1" y="1" width="124.0" height="46" rx="23.0" fill="#FAF4E9" stroke="rgba(31,8,18,0.18)"/>
-<text x="23" y="29.4" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="1.80" fill="#1F0812">ORCID</text>
-<text x="103.0" y="29.7" text-anchor="end" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#A9331F">↗</text>
-</svg>
