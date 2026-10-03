@@ -1,45 +1,51 @@
-<div align="center">
+<!-- Assets live in /assets. Each visual has a dark and a light version; GitHub picks the one matching the viewer's theme. -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0f172a,100:1e3a5f&text=Pierre%20Bouchet&fontColor=ffffff&fontSize=40&fontAlignY=42&desc=PhD%20candidate%20in%20functional%20ecology%20and%20macroecology&descAlignY=68&descSize=16" alt="Pierre Bouchet" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-dark.svg" width="100%" alt="Pierre Bouchet, PhD candidate at CRBE, Toulouse. How human exploitation reshapes the functional diversity of vertebrates across the globe.">
+</picture>
 
-<br/>
+<p>
+  <a href="https://pierrolaloune.github.io"><picture><source media="(prefers-color-scheme: light)" srcset="assets/link-website-light.svg"><img src="assets/link-website-dark.svg" height="40" alt="Website"></picture></a>
+  <a href="https://orcid.org/0009-0000-5907-9364"><picture><source media="(prefers-color-scheme: light)" srcset="assets/link-orcid-light.svg"><img src="assets/link-orcid-dark.svg" height="40" alt="ORCID"></picture></a>
+  <a href="https://www.researchgate.net/profile/Pierre-Bouchet-2"><picture><source media="(prefers-color-scheme: light)" srcset="assets/link-researchgate-light.svg"><img src="assets/link-researchgate-dark.svg" height="40" alt="ResearchGate"></picture></a>
+  <a href="https://www.linkedin.com/in/pierrebouchetprofile/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/link-linkedin-light.svg"><img src="assets/link-linkedin-dark.svg" height="40" alt="LinkedIn"></picture></a>
+  <a href="https://bsky.app/profile/pbouchet.bsky.social"><picture><source media="(prefers-color-scheme: light)" srcset="assets/link-bluesky-light.svg"><img src="assets/link-bluesky-dark.svg" height="40" alt="Bluesky"></picture></a>
+</p>
 
-<a href="https://pierrolaloune.github.io"><img src="https://img.shields.io/badge/Website-1e3a5f?style=flat-square" alt="Website"/></a>
-<a href="https://orcid.org/0009-0000-5907-9364"><img src="https://img.shields.io/badge/ORCID-1e3a5f?style=flat-square" alt="ORCID"/></a>
-<a href="https://www.researchgate.net/profile/Pierre-Bouchet-2"><img src="https://img.shields.io/badge/ResearchGate-1e3a5f?style=flat-square" alt="ResearchGate"/></a>
+<br>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/sec-about-light.svg">
+  <img src="assets/sec-about-dark.svg" width="100%" alt="About">
+</picture>
 
-<br/>
+Geographer by training, I am a PhD candidate at the [CRBE](https://crbe.cnrs.fr/), Université de Toulouse. I use trait-based approaches and large-scale macroecological analyses to study how human exploitation of vertebrates reshapes functional diversity and morphospace across biogeographic realms.
 
-## About
+<br>
 
-I am a third-year PhD student at the Centre de Recherche sur la Biodiversité et l'Environnement (CRBE), Université Toulouse III, Paul Sabatier, and a geographer by training.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/sec-research-light.svg">
+  <img src="assets/sec-research-dark.svg" width="100%" alt="Research focus">
+</picture>
 
-My research examines how the human exploitation of freshwater vertebrates affects functional diversity and morphospace across biogeographic realms, using large-scale macroecological analyses.
+<br>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/research-light.svg">
+  <img src="assets/research-dark.svg" width="100%" alt="01 Functional traits. 02 Macroecology. 03 Biodiversity.">
+</picture>
 
-## Research
+<br><br>
 
-| | |
-|:--|:--|
-| **Study system** | Freshwater fishes and other vertebrates |
-| **Scale** | Global, across biogeographic realms |
-| **Approach** | Trait-based and macroecological analyses |
-| **Computing** | R, high-performance computing |
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/sec-toolbox-light.svg">
+  <img src="assets/sec-toolbox-dark.svg" width="100%" alt="Toolbox">
+</picture>
 
-<br/>
+<br>
 
-## Technical stack
-
-<img src="https://img.shields.io/badge/R-0f172a?style=flat-square&logo=r&logoColor=white" alt="R"/>
-<img src="https://img.shields.io/badge/Tidyverse-0f172a?style=flat-square&logo=tidyverse&logoColor=white" alt="Tidyverse"/>
-<img src="https://img.shields.io/badge/HPC-0f172a?style=flat-square" alt="HPC"/>
-<img src="https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Markdown-0f172a?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
-
-<br/>
-<br/>
-
-<sub>Toulouse, France</sub>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/toolbox-light.svg">
+  <img src="assets/toolbox-dark.svg" height="42" alt="R, Tidyverse, HPC, Git, Markdown">
+</picture>
